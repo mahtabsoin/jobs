@@ -1,0 +1,121 @@
+# OS / General
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+*.tmp
+*.temp
+~$*
+
+# Git
+.git-credentials
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.iml
+.vs/
+.history/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.nuxt/
+out/
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+site/
+htmlcov/
+
+# Java / Kotlin
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+out/
+
+# .NET / C#
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Go
+bin/
+vendor/
+*.test
+
+# Rust
+target/
+
+# PHP / Composer
+vendor/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+
+# Serverless
+.serverless/
+
+# Misc
+*.orig
+*.rej
+*.bak
+*.backup
+*.out
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+

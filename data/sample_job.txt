@@ -1,0 +1,16 @@
+We are seeking a Data Analyst to join our Analytics team.
+
+Responsibilities:
+- Build dashboards in Power BI and Excel to provide insights to stakeholders.
+- Write SQL to analyze customer behavior and product performance.
+- Collaborate with cross-functional teams and communicate findings clearly.
+
+Requirements:
+- 3+ years of experience in data analysis or business intelligence.
+- Strong SQL; familiarity with Python for data manipulation.
+- Experience with cloud data warehouses (Snowflake, BigQuery, Redshift) is a plus.
+- Excellent communication and stakeholder management skills.
+
+Nice to have:
+- Experience with ETL tools and data modeling.
+- Exposure to A/B testing and experimentation frameworks.

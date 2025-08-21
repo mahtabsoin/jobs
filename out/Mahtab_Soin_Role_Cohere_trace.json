@@ -1,0 +1,133 @@
+{
+  "trace": {
+    "bullets": [
+      {
+        "text": "Developed and deployed the \"Asset Portal,\" automating workflows to cut job preparation time by 30x",
+        "source_ids": [
+          "Mahtab Soin - Resume (Feb 2025) - AstraZeneca.pdf"
+        ],
+        "role_index": 2,
+        "score": 0.026488083619550126
+      },
+      {
+        "text": "Managed end-to-end delivery of 120+ high-complexity projects, generating $50M+ in revenue.",
+        "source_ids": [
+          "Mahtab Soin - Resume (Feb 2025) - AstraZeneca.pdf"
+        ],
+        "role_index": 3,
+        "score": 0.020794682121840585
+      },
+      {
+        "text": "Led cross-functional teams of 20+ supervisors to execute 24x7 operations in the busiest global region.",
+        "source_ids": [
+          "Mahtab Soin - Resume (Feb 2025) - AstraZeneca.pdf"
+        ],
+        "role_index": 3,
+        "score": 0.019823669288346783
+      },
+      {
+        "text": "Forging strategic partnerships with aerospace and defense leaders",
+        "source_ids": [
+          "Mahtab Soin - Resume - May 2025.pdf"
+        ],
+        "role_index": 4,
+        "score": 0.06331951619294819
+      },
+      {
+        "text": "Developed and deployed the \"Asset Portal,\" automating workflows to cut job preparation time by 30x",
+        "source_ids": [
+          "Mahtab Soin - Resume (Feb 2025) - Microsoft.pdf"
+        ],
+        "role_index": 8,
+        "score": 0.02777321518746471
+      },
+      {
+        "text": "Commended by both clients and executive leadership for exceptional performance and business impact",
+        "source_ids": [
+          "Mahtab Soin - Resume (Feb 2025) - Microsoft.pdf"
+        ],
+        "role_index": 9,
+        "score": 0.05198867224843783
+      },
+      {
+        "text": "Led product, content and marketing efforts: scaled the app to 100,000+ unique users",
+        "source_ids": [
+          "Mahtab Soin - Resume (Feb 2025) - Microsoft.pdf"
+        ],
+        "role_index": 10,
+        "score": 0.07147445278663442
+      },
+      {
+        "text": "Grew user base to 100,000+ unique users, demonstrating measurable results in a lean environment.",
+        "source_ids": [
+          "Mahtab Soin - Resume - May 2025.pdf"
+        ],
+        "role_index": 10,
+        "score": 0.02074841873978552
+      },
+      {
+        "text": "Utilizing AI tools to automate and streamline all aspects of product creation, from research to debugging.",
+        "source_ids": [
+          "Mahtab Soin - Resume - May 2025.pdf"
+        ],
+        "role_index": 11,
+        "score": 0.03699804052033841
+      },
+      {
+        "text": "Leading development of an AI-assessment platform to solve challenges with traditional evaluations.",
+        "source_ids": [
+          "Mahtab Soin - Resume - May 2025.pdf"
+        ],
+        "role_index": 11,
+        "score": 0.020734134296402255
+      }
+    ]
+  },
+  "job_keywords": [
+    "javascript",
+    "strategic",
+    "account",
+    "executive",
+    "energy",
+    "utilities",
+    "cohere",
+    "need",
+    "enable",
+    "run",
+    "app"
+  ],
+  "evaluation": {
+    "keyword_coverage": {
+      "coverage": 0.273,
+      "covered": [
+        "strategic",
+        "executive",
+        "app"
+      ],
+      "missing": [
+        "javascript",
+        "account",
+        "energy",
+        "utilities",
+        "cohere",
+        "need",
+        "enable",
+        "run"
+      ],
+      "total_keywords": 11
+    },
+    "suggestions": [
+      "Low keyword coverage; consider adding relevant bullets or skills.",
+      "Skills section empty; include key tools and domains from JD."
+    ]
+  },
+  "edits": {
+    "resume": {
+      "edited": false,
+      "bullets": []
+    },
+    "letter": {
+      "edited": false
+    }
+  }
+}

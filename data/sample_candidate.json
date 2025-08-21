@@ -1,0 +1,70 @@
+{
+  "identity": {
+    "name": "Alex Lee",
+    "email": "alex.lee@example.com",
+    "phone": "+1 (555) 555-5555",
+    "location": "San Francisco, CA",
+    "links": ["linkedin.com/in/alexlee", "github.com/alexlee"]
+  },
+  "skills": {
+    "hard": ["SQL", "Power BI", "Excel", "Python", "A/B testing", "Snowflake"],
+    "soft": ["Stakeholder management", "Communication", "Problem solving"]
+  },
+  "work_experience": [
+    {
+      "company": "Acme Corp",
+      "role": "Senior Data Analyst",
+      "start": "2022",
+      "end": "Present",
+      "skills": ["SQL", "Power BI", "Excel", "Python"],
+      "bullets": [
+        {
+          "text": "Built automated Power BI dashboards used weekly by Sales and Product leadership.",
+          "source_ids": ["resume_v2"]
+        },
+        {
+          "text": "Wrote complex SQL to analyze customer cohorts and churn trends across regions.",
+          "source_ids": ["resume_v2"]
+        },
+        {
+          "text": "Partnered with stakeholders to define KPIs and communicate findings in quarterly reviews.",
+          "source_ids": ["linkedin"]
+        },
+        {
+          "text": "Developed Python scripts for data cleaning and enrichment of marketing datasets.",
+          "source_ids": ["resume_v2"]
+        }
+      ]
+    },
+    {
+      "company": "Globex",
+      "role": "Data Analyst",
+      "start": "2020",
+      "end": "2022",
+      "skills": ["SQL", "Excel"],
+      "bullets": [
+        {
+          "text": "Maintained Excel-based reporting and automated recurring analyses via SQL stored procedures.",
+          "source_ids": ["resume_v1"]
+        },
+        {
+          "text": "Supported migration to Snowflake and validated data models for finance reporting.",
+          "source_ids": ["resume_v1"]
+        },
+        {
+          "text": "Collaborated with marketing on A/B test design and result interpretation.",
+          "source_ids": ["linkedin"]
+        }
+      ]
+    }
+  ],
+  "education": [
+    { "institution": "State University", "degree": "B.S. in Statistics", "start": "2016", "end": "2020" }
+  ],
+  "artifacts": [
+    { "source_id": "resume_v1", "type": "resume", "uri_or_text": "file://resume_v1.pdf" },
+    { "source_id": "resume_v2", "type": "resume", "uri_or_text": "file://resume_v2.pdf" },
+    { "source_id": "linkedin", "type": "linkedin", "uri_or_text": "https://linkedin.com/in/alexlee" }
+  ]
+}
+
